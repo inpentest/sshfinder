@@ -1,6 +1,6 @@
 # sshfinder
 
-sshfinder is a fast and efficient tool for scanning open SSH ports on a target system using Scapy and Paramiko.
+sshfinder is a fast and efficient tool for scanning open SSH ports on a target system.
 
 ## Features
 
