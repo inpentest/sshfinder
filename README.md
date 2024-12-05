@@ -26,12 +26,13 @@ sshfinder is a fast and efficient tool for scanning open SSH ports on a target s
 
    ```bash
    python sshfinder.py target_address [options]
-
+   ```
 
 ## Options
 
+   ```bash
    -p, --ports: Specify a custom port range to scan. The format should be start-end (e.g., 22-1024). The default value is 1-65535.
-   
+   ```
 
 ## Examples
 
